@@ -5,7 +5,7 @@ authors: ["Aryan Mehesare"]
 description: ""
 tags: [""]
 categories: [""]
-draft: true
+draft: false
 ---
 
 Hi, I'm Aryan, a student and a tech enthusiast from India in the final year of high school. I love exploring new technologies and learning new skills. I have basic knowledge of **Python, MySQL and Java** and am currently trying out web development. As a **Linux and FOSS** enthusiast, I try to use free and open-source software and also promote it to a larger audience.

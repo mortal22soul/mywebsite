@@ -5,7 +5,7 @@ authors: ["Aryan Mehesare"]
 description: ""
 tags: [""]
 categories: [""]
-draft: true
+draft: false
 ---
 
 Welcome to my projects page! Here you can find some of the things I have been working on. I don't have many projects to show yet, but I am always eager to learn new skills and explore new ideas. Here are some of my projects consisting mostly of linux rices. I am currently learning web developement and look forward to create some cool projects by the end of this year.
