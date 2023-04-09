@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "mywebsite-5f0.pages.dev"
 theme = "hugo-coder"
 title = "Aryan Mehesare"
 languagecode = "en"
