@@ -1,10 +1,6 @@
 ---
 title: "Projects"
 date: 2023-04-09T09:11:50+05:30
-authors: ["Aryan Mehesare"]
-description: ""
-tags: [""]
-categories: [""]
 draft: false
 ---
 
@@ -34,7 +30,7 @@ Welcome to my projects page! Here you can find some of the things I have been wo
 </div>
 <div class="four">
 
-[Everblush Chrome Theme](https://www.github.com/everblush/chromium)
+[Everblush Chrome](https://www.github.com/everblush/chromium)
 <img src="/images/Everblush.png" alt="Image" width=90%>
 
 </div>

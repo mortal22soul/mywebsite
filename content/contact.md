@@ -1,10 +1,6 @@
 ---
 title: "Contact"
 date: 2023-04-09T09:11:41+05:30
-authors: ["Aryan Mehesare"]
-description: ""
-tags: [""]
-categories: [""]
 draft: false
 ---
 
