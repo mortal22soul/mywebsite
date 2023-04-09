@@ -17,6 +17,7 @@ style = "github-dark"
 [params]
   author = "Aryan Mehesare"
   # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
+  # license = '<a rel="license" href="https://www.gnu.org/licenses/gpl-3.0.en.html">GPL-3.0</a>'
   info = "Student and Tech Enthusiast"
   description = "Aryan Mehesare's personal website"
   keywords = "blog,developer,personal"

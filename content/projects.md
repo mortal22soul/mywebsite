@@ -11,13 +11,13 @@ Welcome to my projects page! Here you can find some of the things I have been wo
 <div class="one">
 
 [Dotfiles](https://www.github.com/mortal22soul/dotfiles)
-<img src="/images/nord_rice.png" alt="Image" width=90%>
+<img src="/images/nord_rice.webp" alt="Image" width=90%>
 
 </div>
 <div class="two">
 
 [DWM](https://www.github.com/mortal22soul/suckless-tools)
-<img src="/images/chadwm_eww.png" alt="Image" width=90%>
+<img src="/images/chadwm_eww.webp" alt="Image" width=90%>
 
 </div>
 </div>
@@ -25,13 +25,13 @@ Welcome to my projects page! Here you can find some of the things I have been wo
 <div class="three">
 
 [Sway](https://www.github.com/mortal22soul/wayland-dotfiles)
-<img src="/images/sway.png" alt="Image" width=90%>
+<img src="/images/sway.webp" alt="Image" width=90%>
 
 </div>
 <div class="four">
 
 [Everblush Chrome](https://www.github.com/everblush/chromium)
-<img src="/images/Everblush.png" alt="Image" width=90%>
+<img src="/images/everblush.webp" alt="Image" width=90%>
 
 </div>
 </div>
