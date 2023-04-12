@@ -11,7 +11,7 @@ Welcome to my projects page! Here you can find some of the things I have been wo
 <div class="one">
 
 [Dotfiles](https://www.github.com/mortal22soul/dotfiles)
-<img src="/images/nord_rice.webp" alt="Image" width=90%>
+<img src="images/nord_rice.webp" alt="Image" width=90%>
 
 </div>
 <div class="two">
