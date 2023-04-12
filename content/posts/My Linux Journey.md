@@ -11,7 +11,7 @@ slug: ""
 externalLink: ""
 featuredImage: ""
 disableComments: true
-draft: true
+draft: false
 ---
 
 It all started in September of 2020, I had a very low end laptop from 2009 with a dual core CPU and 3 GB of RAM. I was having a terrible experience with Windows 10 on it. That's when decided to try out a Linux distro.
