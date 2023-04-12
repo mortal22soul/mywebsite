@@ -11,7 +11,7 @@ Welcome to my projects page! Here you can find some of the things I have been wo
 <div class="one">
 
 [Dotfiles](https://www.github.com/mortal22soul/dotfiles)
-<img src="/images/nord_rice.webp" alt="Image" width=90%>
+<img src="/mywebsite/images/nord_rice.webp" alt="Image" width=90%>
 
 </div>
 <div class="two">
@@ -25,13 +25,13 @@ Welcome to my projects page! Here you can find some of the things I have been wo
 <div class="three">
 
 [Sway](https://www.github.com/mortal22soul/wayland-dotfiles)
-<img src="/images/sway.webp" alt="Image" width=90%>
+<img src="/mywebsite/images/sway.webp" alt="Image" width=90%>
 
 </div>
 <div class="four">
 
 [Everblush Chrome](https://www.github.com/everblush/chromium)
-<img src="/images/everblush.webp" alt="Image" width=90%>
+<img src="/mywebsite/images/everblush.webp" alt="Image" width=90%>
 
 </div>
 </div>
