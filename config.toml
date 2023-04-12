@@ -8,6 +8,8 @@ paginate = 20
 
 enableEmoji = true
 
+enableGitInfo = true
+
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
 
