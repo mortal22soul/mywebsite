@@ -3,7 +3,7 @@ theme = "hugo-coder"
 title = "Aryan Mehesare"
 languagecode = "en"
 defaultContentLanguage = "en"
-
+googleAnalytics = "G-BNDTXYTWR8"
 paginate = 20
 
 enableEmoji = true
