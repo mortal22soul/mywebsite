@@ -17,7 +17,7 @@ Welcome to my projects page! Here you can find some of the things I have been wo
 <div class="two">
 
 [DWM](https://www.github.com/mortal22soul/suckless-tools)
-<img src="/images/chadwm_eww.webp" alt="Image" width=90%>
+<img src="/mywebsite/images/chadwm_eww.webp" alt="Image" width=90%>
 
 </div>
 </div>
