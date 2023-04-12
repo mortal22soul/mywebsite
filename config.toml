@@ -1,4 +1,4 @@
-baseurl = "https://mortal22soul.github.io/mywebsite/"
+baseurl = "https://mortal22soul.github.io/mywebsite"
 theme = "hugo-coder"
 title = "Aryan Mehesare"
 languagecode = "en"
