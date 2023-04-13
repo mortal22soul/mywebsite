@@ -89,6 +89,13 @@ style = "github-dark"
   weight = 4
   url = "https://twitter.com/mortal22soul/"
   target = "_blank"
+[[params.social]]
+  name = "RSS"
+  icon = "fa fa-rss fa-2x"
+  weight = 6
+  url = "https://myhugosite.com/index.xml"
+  rel = "alternate"
+  type = "application/rss+xml"
 
 # Menu links
 [[menu.main]]
