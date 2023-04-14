@@ -44,7 +44,8 @@ I created a new folder and used `git init` to initialise it as a git repository.
 
 ## Staging and Committing
 
-I created a README.md file in the repository and used the `git add` command to add it to the staging area, after doing this gits starts tracking the file for any changes. Next comes the commiting part which can be done using the `git commit` command. It is important to write precise commit messages so that other people can know what has been changed. This is very important especially ehile working on large projects to keep track of changes or while working with multiple people on a project. Changes can also be unstaged using `git rm --cache file_name`.
+I created a README.md file in the repository and used the `git add .` command to add it to the staging area, after doing this gits starts tracking the file for any changes. Next comes the commiting part which can be done using the `git commit` command. It is important to write precise commit messages so that other people can know what has been changed. This is very important especially ehile working on large projects to keep track of changes or while working with multiple people on a project.
+Changes can also be unstaged using `git rm --cache file_name`.
 
 ## Linking the repo to a hosting service
 
