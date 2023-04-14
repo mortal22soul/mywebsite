@@ -5,13 +5,13 @@ authors: ["Aryan Mehesare"]
 description: ""
 tags: ["Git", "Github", "FOSS", "learning"]
 categories: [""]
-series: [""]
+series: ["Learning New Skills"]
 url: ""
 slug: ""
 externalLink: ""
 featuredImage: "/images/git_github.jpg"
 disableComments: true
-draft: true
+draft: false
 ---
 
 Git is a very important software that almost every software developer should know. It simplifies tasks and helps people to contribute and collaborate with others on projects. I have been using Github for a year now but I didn't have a lot of knowledge about git so I decided to learn it this week. It also has an extensive documentation which makes it easy to use. [^1]
