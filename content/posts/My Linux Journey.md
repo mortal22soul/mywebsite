@@ -3,7 +3,7 @@ title: "My Linux Journey"
 date: 2023-04-12T10:09:56+05:30
 authors: ["Aryan Mehesare"]
 description: ""
-tags: ["Linux"]
+tags: ["Linux", "FOSS"]
 categories: [""]
 series: [""]
 url: ""
