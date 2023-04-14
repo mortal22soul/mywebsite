@@ -9,12 +9,12 @@ series: [""]
 url: ""
 slug: ""
 externalLink: ""
-featuredImage: "/images/git_Github.jpg"
+featuredImage: "/images/git_github.jpg"
 disableComments: true
 draft: true
 ---
 
-Git is a very important software that almost every software developer should know. It simplifies tasks and helps people to contribute and collaborate with others on projects. I have been using Github for a year now but I didn't have a lot of knowledge about git so I decided to learn it this week.
+Git is a very important software that almost every software developer should know. It simplifies tasks and helps people to contribute and collaborate with others on projects. I have been using Github for a year now but I didn't have a lot of knowledge about git so I decided to learn it this week. It also has an extensive documentation which makes it easy to use. [^1]
 
 <h2>Index</h2>
 
@@ -44,7 +44,7 @@ I created a new folder and used `git init` to initialise it as a git repository.
 
 ## Staging and Committing
 
-I created a README.md file in the repository and used the `git add .` command to add it to the staging area, after doing this git starts tracking the file for any changes. Next comes the committing part which can be done using the `git commit` command. It is important to write precise commit messages so that other people can know what has been changed. This is very important especially ehile working on large projects to keep track of changes or while working with multiple people on a project.
+Next, I created a README.md file in the repository and used the `git add .` command to add it to the staging area, after doing this git starts tracking the file for any changes. Next comes the committing part which can be done using the `git commit` command. It is important to write precise commit messages so that other people can know what has been changed. This is very important especially ehile working on large projects to keep track of changes or while working with multiple people on a project.
 Changes can also be unstaged using `git rm --cache file_name`.
 
 ## Linking the repository to a hosting service
@@ -77,12 +77,12 @@ Git gives you the ability to clone any remote repository to your system to work 
 
 ## Forking Repositories
 
-Github allows you to fork repositories from other people on the platform. This is very useful if u want to contribute to it as it gives us the freedom to play around with the code and open a pull request for merging into the main repositry.
+Github allows you to fork repositories from other people on the platform. This is very useful if you want to contribute to it as it gives us the freedom to play around with the code and open a pull request for merging into the main repositry.
 
 ---
 
-This is just the basics of git and what I have learned so far. I'll update it in the future when I learn things such as revert, ammend, reset etc.
+These are the some of the most used commnds of git and what I have learned so far. I'll update it in the future when I learn things such as revert, ammend, reset etc.
 
-Millions of people use git everyday and it has transformed the software industry. Git has many commands but it is not recommended to learn them. Many commands get memorised over time and you always have access to the documentation locally.
+Millions of people use git everyday and it has transformed the software industry. Git has many commands but it is not recommended to learn them. Many commands get memorised over time and you always have access to the documentation locally. [^1]
 
-<h6> You can use the <i>git help command_name</i> command to check out the detailed documentation for each command. <h4>
+[^1]: You can use the <i>git help command_name</i> command to check out the detailed documentation for each command.
