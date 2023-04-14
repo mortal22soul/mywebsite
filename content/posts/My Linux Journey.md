@@ -9,7 +9,7 @@ series: [""]
 url: ""
 slug: ""
 externalLink: ""
-featuredImage: ""
+featuredImage: "/images/tux-on-top.jpg"
 disableComments: true
 draft: false
 ---
