@@ -9,7 +9,7 @@ series: [""]
 url: ""
 slug: ""
 externalLink: ""
-featuredImage: ""
+featuredImage: "/images/hugo-logo.png"
 disableComments: true
 draft: false
 ---

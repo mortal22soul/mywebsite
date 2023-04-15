@@ -9,7 +9,7 @@ series: [""]
 url: ""
 slug: ""
 externalLink: ""
-featuredImage: ""
+featuredImage: "/images/ai.jpg"
 disableComments: true
 draft: false
 ---
