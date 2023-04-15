@@ -32,9 +32,9 @@ Setting up Hugo was surprisingly easy. I followed the official documentation on 
 
 1. I downloaded and installed Hugo on my computer using `winget`.
 2. I created a new site using the `hugo new site` command. This created a folder with some basic files and folders for my site.
-3. I am using the `coder` theme for my website. I downloaded the theme I liked and cloned it into the `themes` folder.
+3. I am using the `coder` theme for my website. I used the `git add submodule` command to add it into the `themes` folder.
 4. I configured my site using the `config.toml` file in the root folder of my site. This file contained some global settings for my site, such as the title, language, base URL, etc. I also customized some theme-specific settings, such as the color scheme, fonts, layout, etc.
-5. I created some content for my site using the `hugo new` command. This created some Markdown files in the `content` folder of my site, with some predefined front matter (frontmatter) such as the title, date, categories, tags, etc. I edited these files with my favorite text editor and wrote my content.
+5. I created some content for my site using the `hugo new` command. This created some Markdown files in the `content` folder of my site, with some predefined frontmatter such as the title, date, categories, tags, etc.
 6. I built my site using the `hugo` command. This generated a `public` folder with all the HTML files and assets for my site.
 7. I deployed my site using the `hugo deploy` command. This uploaded the `public` folder to a web server of my choice. I used Cloudflare Pages, a free and easy-to-use hosting service that integrates well with Hugo.
 
