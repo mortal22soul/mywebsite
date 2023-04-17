@@ -3,7 +3,7 @@ title: "Learning Git"
 date: 2023-04-14T18:42:44+05:30
 authors: ["Aryan Mehesare"]
 description: ""
-tags: ["Git", "Github", "FOSS", "learning"]
+tags: ["Git", "Github", "FOSS", "Learning"]
 categories: [""]
 series: ["Learning New Skills"]
 url: ""

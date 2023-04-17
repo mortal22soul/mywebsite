@@ -3,7 +3,7 @@ title: "Development of AI and Chatbots"
 date: 2023-04-08T21:12:30+05:30
 authors: ["Aryan Mehesare"]
 description: ""
-tags: ["AI", "chatbots"]
+tags: ["AI", "Chatbots"]
 categories: [""]
 series: [""]
 url: ""

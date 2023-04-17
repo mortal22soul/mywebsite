@@ -3,7 +3,7 @@ title: "My First Blog"
 date: 2023-04-06T11:49:05+05:30
 authors: ["Aryan Mehesare"]
 description: ""
-tags: ["learning", "firstblog"]
+tags: ["Learning", "First"]
 categories: [""]
 series: [""]
 url: ""
