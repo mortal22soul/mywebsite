@@ -93,7 +93,7 @@ style = "github-dark"
   name = "RSS"
   icon = "fa fa-rss fa-2x"
   weight = 6
-  url = "https://mywebsite-5f0.pages.dev/index.xml"
+  url = "https://mywebsite-5f0.pages.dev/posts/index.xml"
   rel = "alternate"
   type = "application/rss+xml"
 
