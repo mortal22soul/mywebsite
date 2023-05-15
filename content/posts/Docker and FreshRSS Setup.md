@@ -1,10 +1,10 @@
 ---
-title: "Docker and FreshRSS Setup"
+title: "Getting Started with Docker"
 date: 2023-04-17T12:55:26+05:30
 authors: ["Aryan Mehesare"]
 description: ""
-tags: [""]
-categories: ["Docker", "RSS", "FreshRSS", "Learning"]
+tags: ["Docker", "Learning"]
+categories: [""]
 series: [""]
 url: ""
 slug: ""
