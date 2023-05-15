@@ -1,6 +1,9 @@
 <head>
     {{ template "_internal/google_analytics.html" . }}
     {{ template "_internal/google_analytics_async.html" . }}
+<!-- Cloudflare Web Analytics -->
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "dd4ff685c41041c9a1f7758b1e770ee8"}'></script>
+<!-- End Cloudflare Web Analytics -->
 </head>
 
 {{ partial "head/meta-tags.html" . }}
