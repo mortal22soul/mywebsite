@@ -4,7 +4,7 @@ date: 2023-04-09T09:11:50+05:30
 draft: false
 ---
 
-Welcome to my projects page! Here you can find some of the things I have been working on. I don't have many projects to show yet, but I am always eager to learn new skills and explore new ideas. Here are some of my projects consisting mostly of linux rices. I look forward to create some cool projects.
+Welcome to my projects page! Here you can find some of the things I have been working on. I don't have many projects to show yet, but I am always eager to learn new skills and explore new ideas.
 
 [DWM](https://www.github.com/mortal22soul/suckless-tools)
 <a href="https://www.github.com/mortal22soul/suckless-tools" target="_blank"><img src="/images/chadwm_eww.webp" alt="Image" width=75%></a>
