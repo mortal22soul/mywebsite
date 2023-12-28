@@ -1,0 +1,27 @@
+<head>
+    {{ template "_internal/google_analytics.html" . }}
+    {{ template "_internal/google_analytics_async.html" . }}
+<!-- Cloudflare Web Analytics -->
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "dd4ff685c41041c9a1f7758b1e770ee8"}'></script>
+<!-- End Cloudflare Web Analytics -->
+</head>
+
+{{ partial "head/meta-tags.html" . }}
+
+{{ if .Permalink }}
+<link rel="canonical" href="{{ .Permalink }}">
+{{ end }}
+
+{{ partialCached "head/theme-styles.html" . }}
+
+{{ partialCached "head/color-scheme.html" . }}
+
+{{ partialCached "head/custom-styles.html" . }}
+
+{{ partialCached "head/custom-icons.html" . }}
+
+{{ partial "head/alternative-output-formats.html" . }}
+
+{{ if .IsHome }}{{ partial "head/hugo-generator.html" . }}{{ end }}
+
+{{ partial "head/extensions.html" . }}
